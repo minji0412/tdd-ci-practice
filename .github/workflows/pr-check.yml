@@ -21,7 +21,7 @@ premissons:
 
       -name: Install
       run: npm ci
-      
+      np
       -name: Test
       run: npm test
       
